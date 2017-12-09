@@ -1,0 +1,19 @@
+{
+  "name": "luriapp",
+  "version": "1.0.0",
+  "description": "luri text application",
+  "main": "keys.js",
+  "dependencies": {
+    "curl": "^0.1.4",
+    "node-spotify-api": "^1.0.7",
+    "pkg.json": "^2.0.6",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamal Patterson",
+  "license": "ISC"
+}
